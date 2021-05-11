@@ -1,0 +1,19 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Myriad Pro', serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    outline: 0;
+    list-style: none;
+}
+

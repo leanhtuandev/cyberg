@@ -1,0 +1,19 @@
+@media screen and (max-width: 576px) {
+
+    div#header {
+        height: 70px !important;
+        line-height: 70px !important;
+        display: inline-block !important;
+    }
+    .header-wrap_img {
+        padding-top: 30px;
+        padding-left: 20px;
+        padding-bottom: 30px;
+    }
+    .header-wrap_link {
+        display: inline-block !important;
+    }
+    .wrap_link {
+        padding-left: 19vh;
+    }
+}
